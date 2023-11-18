@@ -20,29 +20,16 @@ export default function Home() {
       spanClass: "col-span-4",
     },
     {
-      title: "Visual Progress",
-      subtitle:
-        "Rack up coins for tasks, customize your character, and level up!",
-      image: "/chinju-forest.jpeg",
-      spanClass: "col-span-3",
-    },
-    {
-      title: "Healthy habits reminder",
-      subtitle: "Timely prompts for breaks, hydration, and short walks.",
+      title: "Organize your day in time-blocks",
+      subtitle: "Craft personalized timetables for efficient scheduling.",
       image: "/japanese-building.jpeg",
-      spanClass: "col-span-3",
+      spanClass: "col-span-4",
     },
     {
       title: "Customizable Playlist",
       subtitle: "Fine-tune your work ambiance with easy music controls.",
       image: "/isolation.jpeg",
       spanClass: "col-span-2",
-    },
-    {
-      title: "Organize your day in time-blocks",
-      subtitle: "Craft personalized timetables for efficient scheduling.",
-      image: "/building.jpeg",
-      spanClass: "col-span-4",
     },
   ];
   return (
