@@ -15,7 +15,7 @@ export default function Home() {
     },
     {
       title: "Inmersive Environment",
-      subtitle: "Soothing background sounds and dynamic climate changes.",
+      subtitle: "Smoothing background sounds and dynamic climate changes.",
       image: "/inmersive-environment.webp",
       spanClass: "col-span-4",
     },
